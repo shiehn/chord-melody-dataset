@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-27</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -1679,6 +1679,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="75.4664">
 				<root>
 					<root-step>D</root-step>
@@ -1712,12 +1718,15 @@
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>4</offset>
+				<offset>-6</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure><!--
 ===========================================================
 -->
@@ -1725,12 +1734,90 @@
 		<measure number="17" width="196">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<forward>
-				<duration>80</duration>
-			</forward>
-			<barline location="right">
-				<bar-style>light-heavy</bar-style>
-			</barline>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>7</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>3</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure><!--
 ===========================================================
 -->
@@ -1792,6 +1879,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="72.2525">
 				<root>
 					<root-step>F</root-step>
@@ -1831,12 +1924,15 @@
 						<fret>2</fret>
 					</frame-note>
 				</frame>
-				<offset>6</offset>
+				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure><!--
 ===========================================================
 -->
@@ -1880,6 +1976,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="72.2525">
 				<root>
 					<root-step>B</root-step>
@@ -1913,12 +2015,15 @@
 						<fret>2</fret>
 					</frame-note>
 				</frame>
-				<offset>18</offset>
+				<offset>-8</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure><!--
 ===========================================================
 -->
@@ -5265,9 +5370,15 @@
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>0</offset>
+				<offset>2</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="72.2525">
 				<root>
 					<root-step>G</root-step>
@@ -5301,12 +5412,15 @@
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>20</offset>
+				<offset>-1</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<barline location="right">
 				<bar-style>light-heavy</bar-style>
 			</barline>

@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-27</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -1907,6 +1907,43 @@
 				</system-layout>
 			</print>
 			<attributes></attributes>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>E</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>2</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>B</step>
@@ -1930,6 +1967,43 @@
 				<type>eighth</type>
 				<stem>up</stem>
 			</note>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>E</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>1</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -1958,6 +2032,43 @@
 		<measure number="19" width="269">
 			<print new-system="no"></print>
 			<attributes></attributes>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>3</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -1969,6 +2080,43 @@
 				<type>half</type>
 				<stem>up</stem>
 			</note>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>1</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -1997,6 +2145,43 @@
 		<measure number="20" width="274">
 			<print new-system="no"></print>
 			<attributes></attributes>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>E</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>1</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>C</step>
@@ -2019,6 +2204,43 @@
 				<type>eighth</type>
 				<stem>up</stem>
 			</note>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>E</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>4</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -2047,6 +2269,43 @@
 		<measure number="21" width="286">
 			<print new-system="no"></print>
 			<attributes></attributes>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>3</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -2058,6 +2317,43 @@
 				<type>half</type>
 				<stem>up</stem>
 			</note>
+			<harmony default-y="75.4664">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major</kind>
+				<frame default-y="63.7715" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>3</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>E</step>

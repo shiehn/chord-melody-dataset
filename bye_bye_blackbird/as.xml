@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-23</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -218,7 +218,7 @@
 ===========================================================
 -->
 
-		<measure number="3" width="129">
+		<measure number="3" width="177">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -312,7 +312,7 @@
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>3</offset>
+				<offset>2</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
@@ -329,17 +329,7 @@
 ===========================================================
 -->
 
-		<measure number="4" width="47">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<forward>
-				<duration>40</duration>
-			</forward>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="5" width="164">
+		<measure number="4" width="164">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -448,7 +438,7 @@
 ===========================================================
 -->
 
-		<measure number="6" width="172">
+		<measure number="5" width="172">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -561,7 +551,7 @@
 ===========================================================
 -->
 
-		<measure number="7" width="147">
+		<measure number="6" width="147">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -653,7 +643,7 @@
 ===========================================================
 -->
 
-		<measure number="8" width="167">
+		<measure number="7" width="167">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -749,7 +739,7 @@
 ===========================================================
 -->
 
-		<measure number="9" width="209">
+		<measure number="8" width="209">
 			<print new-system="yes">
 				<system-layout>
 					<system-margins>
@@ -861,7 +851,7 @@
 ===========================================================
 -->
 
-		<measure number="10" width="168">
+		<measure number="9" width="168">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -954,7 +944,7 @@
 ===========================================================
 -->
 
-		<measure number="11" width="186">
+		<measure number="10" width="186">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -1077,7 +1067,7 @@
 ===========================================================
 -->
 
-		<measure number="12" width="179">
+		<measure number="11" width="179">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -1188,7 +1178,7 @@
 ===========================================================
 -->
 
-		<measure number="13" width="172">
+		<measure number="12" width="172">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="76.6654">
@@ -1299,7 +1289,7 @@
 ===========================================================
 -->
 
-		<measure number="14" width="190">
+		<measure number="13" width="190">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -1409,7 +1399,7 @@
 ===========================================================
 -->
 
-		<measure number="15" width="197">
+		<measure number="14" width="197">
 			<print new-system="yes">
 				<system-layout>
 					<system-margins>
@@ -1510,7 +1500,7 @@
 ===========================================================
 -->
 
-		<measure number="16" width="178">
+		<measure number="15" width="178">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -1599,7 +1589,7 @@
 ===========================================================
 -->
 
-		<measure number="17" width="176">
+		<measure number="16" width="176">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -1701,7 +1691,7 @@
 ===========================================================
 -->
 
-		<measure number="18" width="165">
+		<measure number="17" width="165">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -1793,7 +1783,7 @@
 ===========================================================
 -->
 
-		<measure number="19" width="186">
+		<measure number="18" width="186">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -1913,7 +1903,7 @@
 ===========================================================
 -->
 
-		<measure number="20" width="205">
+		<measure number="19" width="205">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -2035,7 +2025,7 @@
 ===========================================================
 -->
 
-		<measure number="21" width="182">
+		<measure number="20" width="182">
 			<print new-system="yes">
 				<system-layout>
 					<system-margins>
@@ -2147,7 +2137,7 @@
 ===========================================================
 -->
 
-		<measure number="22" width="180">
+		<measure number="21" width="180">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -2237,7 +2227,7 @@
 ===========================================================
 -->
 
-		<measure number="23" width="201">
+		<measure number="22" width="201">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="106.0794">
@@ -2360,7 +2350,7 @@
 ===========================================================
 -->
 
-		<measure number="24" width="204">
+		<measure number="23" width="204">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="106.0794">
@@ -2481,7 +2471,7 @@
 ===========================================================
 -->
 
-		<measure number="25" width="151">
+		<measure number="24" width="151">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="106.0794">
@@ -2571,7 +2561,7 @@
 ===========================================================
 -->
 
-		<measure number="26" width="189">
+		<measure number="25" width="189">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="93.0775">
@@ -2660,7 +2650,7 @@
 ===========================================================
 -->
 
-		<measure number="27" width="201">
+		<measure number="26" width="201">
 			<print new-system="yes">
 				<system-layout>
 					<system-margins>
@@ -2798,7 +2788,7 @@
 ===========================================================
 -->
 
-		<measure number="28" width="178">
+		<measure number="27" width="178">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -2909,7 +2899,7 @@
 ===========================================================
 -->
 
-		<measure number="29" width="196">
+		<measure number="28" width="196">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -3023,7 +3013,7 @@
 ===========================================================
 -->
 
-		<measure number="30" width="191">
+		<measure number="29" width="191">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="89.1136">
@@ -3138,7 +3128,7 @@
 ===========================================================
 -->
 
-		<measure number="31" width="172">
+		<measure number="30" width="172">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">
@@ -3242,7 +3232,7 @@
 ===========================================================
 -->
 
-		<measure number="32" width="169">
+		<measure number="31" width="169">
 			<print new-system="no"></print>
 			<attributes></attributes>
 			<harmony default-y="101.5618">

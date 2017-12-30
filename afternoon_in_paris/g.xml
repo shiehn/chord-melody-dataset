@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-21</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -3520,6 +3520,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="103.0056">
 				<root>
 					<root-step>D</root-step>
@@ -3553,12 +3559,15 @@
 						<fret>2</fret>
 					</frame-note>
 				</frame>
-				<offset>36</offset>
+				<offset>9</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure>
 	</part>
 </score-partwise>

@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-27</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -2147,6 +2147,43 @@
 				<offset>2</offset>
 				<staff>1</staff>
 			</harmony>
+			<harmony default-y="62.4644">
+				<root>
+					<root-step>A</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="50.7695" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>4</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>2</fret>
+					</frame-note>
+				</frame>
+				<offset>40</offset>
+				<staff>1</staff>
+			</harmony>
 			<note>
 				<pitch>
 					<step>B</step>
@@ -2491,9 +2528,9 @@
 					<step>C</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>down</stem>
 			</note>
 			<note>
@@ -2502,9 +2539,9 @@
 					<alter>-1</alter>
 					<octave>4</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>down</stem>
 			</note>
 			<note>
@@ -2517,9 +2554,6 @@
 				<type>quarter</type>
 				<stem>up</stem>
 			</note>
-			<backup>
-				<duration>20</duration>
-			</backup>
 		</measure><!--
 ===========================================================
 -->
@@ -2574,12 +2608,6 @@
 				<type>half</type>
 				<stem>down</stem>
 			</note>
-			<note>
-				<rest/>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-			</note>
 			<harmony default-y="72.2525">
 				<root>
 					<root-step>E</root-step>
@@ -2631,9 +2659,6 @@
 					<tied type="start" number="1" orientation="under"/>
 				</notations>
 			</note>
-			<backup>
-				<duration>10</duration>
-			</backup>
 		</measure><!--
 ===========================================================
 -->
@@ -2941,9 +2966,9 @@
 					<alter>-1</alter>
 					<octave>4</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>down</stem>
 			</note>
 			<harmony default-y="62.4644">
@@ -2988,9 +3013,9 @@
 					<step>A</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>up</stem>
 			</note>
 			<note>
@@ -3003,9 +3028,6 @@
 				<type>quarter</type>
 				<stem>up</stem>
 			</note>
-			<backup>
-				<duration>20</duration>
-			</backup>
 		</measure><!--
 ===========================================================
 -->
@@ -3423,9 +3445,9 @@
 					<step>A</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>up</stem>
 			</note>
 			<note>
@@ -3433,9 +3455,9 @@
 					<step>G</step>
 					<octave>4</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>10</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>up</stem>
 			</note>
 			<note>
@@ -3450,9 +3472,6 @@
 				<accidental parentheses="no">sharp</accidental>
 				<stem>up</stem>
 			</note>
-			<backup>
-				<duration>20</duration>
-			</backup>
 		</measure><!--
 ===========================================================
 -->

@@ -7,7 +7,7 @@
 		<creator type="composer"></creator>
 		<encoding>
 			<software>SmartScore X2 Songbook Edition</software>
-			<encoding-date>2017-12-26</encoding-date>
+			<encoding-date>2017-12-30</encoding-date>
 			<supports attribute="new-system" element="print" type="yes" value="yes"/>
 			<supports attribute="new-page" element="print" type="yes" value="yes"/>
 		</encoding>
@@ -1007,6 +1007,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="100.3543">
 				<root>
 					<root-step>B</root-step>
@@ -1040,12 +1046,15 @@
 						<fret>2</fret>
 					</frame-note>
 				</frame>
-				<offset>15</offset>
+				<offset>-3</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure><!--
 ===========================================================
 -->
@@ -2906,6 +2915,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 			<harmony default-y="104.8182">
 				<root>
 					<root-step>E</root-step>
@@ -2939,12 +2954,15 @@
 						<fret>0</fret>
 					</frame-note>
 				</frame>
-				<offset>9</offset>
+				<offset>-6</offset>
 				<staff>1</staff>
 			</harmony>
-			<forward>
-				<duration>80</duration>
-			</forward>
+			<note>
+				<rest/>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+			</note>
 		</measure>
 	</part>
 </score-partwise>

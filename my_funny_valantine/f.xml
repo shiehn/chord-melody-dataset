@@ -70,7 +70,7 @@
 			<attributes>
 				<divisions>20</divisions>
 				<key>
-					<fifths>0</fifths>
+					<fifths>-1</fifths>
 				</key>
 				<time>
 					<beats>4</beats>
@@ -95,12 +95,12 @@
 		<measure number="2" width="203">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>C</root-step>
+					<root-step>D</root-step>
 				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -109,34 +109,34 @@
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>1</fret>
 					</frame-note>
 				</frame>
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>A</root-step>
+					<root-step>D</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -149,27 +149,27 @@
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>33</offset>
+				<offset>31</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>40</duration>
@@ -179,12 +179,22 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>E</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>40</duration>
+				<duration>20</duration>
 				<voice>1</voice>
-				<type>half</type>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
 				<stem>down</stem>
 			</note>
 		</measure><!--
@@ -194,12 +204,12 @@
 		<measure number="3" width="203">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>D</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -220,7 +230,7 @@
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
@@ -232,7 +242,168 @@
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="4" width="203">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>20</duration>
@@ -242,203 +413,13 @@
 			</note>
 			<note>
 				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>10</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
 					<step>F</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-					<articulations>
-						<tenuto placement="above"/>
-					</articulations>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>E</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
+					<octave>5</octave>
 				</pitch>
 				<duration>20</duration>
 				<voice>1</voice>
 				<type>quarter</type>
-				<stem>up</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="4" width="203">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>33</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
+				<stem>down</stem>
 			</note>
 		</measure><!--
 ===========================================================
@@ -447,12 +428,12 @@
 		<measure number="5" width="203">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>D</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -473,7 +454,7 @@
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
@@ -485,40 +466,30 @@
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
-					<octave>4</octave>
+					<step>E</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>30</duration>
 				<voice>1</voice>
 				<type>quarter</type>
-				<stem>up</stem>
+				<dot/>
+				<stem>down</stem>
 			</note>
-			<note>
-				<pitch>
-					<step>E</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-			</note>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>G</root-step>
+					<root-step>D</root-step>
 				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -526,70 +497,39 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>10</offset>
+				<offset>14</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
 				<duration>10</duration>
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
+				<stem>down</stem>
 			</note>
 			<note>
 				<pitch>
-					<step>B</step>
-					<octave>4</octave>
+					<step>E</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>40</duration>
 				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
+				<type>half</type>
+				<stem>down</stem>
 			</note>
 		</measure><!--
 ===========================================================
@@ -606,12 +546,49 @@
 				</system-layout>
 			</print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>C</root-step>
 				</root>
 				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -639,48 +616,12 @@
 						<fret>0</fret>
 					</frame-note>
 				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>33</offset>
+				<offset>31</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>D</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>40</duration>
@@ -690,65 +631,7 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>down</stem>
-				<notations>
-					<articulations>
-						<strong-accent placement="above"/>
-					</articulations>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="7" width="296">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>2</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
+					<step>E</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>20</duration>
@@ -758,23 +641,29 @@
 			</note>
 			<note>
 				<pitch>
-					<step>B</step>
-					<octave>4</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
-				<duration>10</duration>
+				<duration>20</duration>
 				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
+				<type>quarter</type>
+				<stem>down</stem>
 			</note>
-			<harmony default-y="72.4906">
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="7" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="130.0909">
 				<root>
-					<root-step>D</root-step>
+					<root-step>G</root-step>
 				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="118.8572" valign="top">
 					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
+					<frame-frets>6</frame-frets>
 					<frame-note>
 						<string>6</string>
 						<fret>0</fret>
@@ -785,68 +674,89 @@
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>0</fret>
+						<fret>5</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>2</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>2</fret>
+						<fret>3</fret>
 					</frame-note>
 				</frame>
-				<offset>10</offset>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="130.0909">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="118.8572" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>6</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>5</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
 					<step>C</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<tenuto placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
 					<octave>5</octave>
 				</pitch>
-				<duration>10</duration>
+				<duration>20</duration>
 				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
+				<type>quarter</type>
+				<stem>down</stem>
 			</note>
 			<note>
 				<pitch>
-					<step>D</step>
+					<step>A</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>20</duration>
@@ -861,21 +771,26 @@
 		<measure number="8" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>G</root-step>
+					<root-step>E</root-step>
 				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind parentheses-degrees="yes">minor-seventh</kind>
+				<degree>
+					<degree-value>5</degree-value>
+					<degree-alter>-1</degree-alter>
+					<degree-type>alter</degree-type>
+				</degree>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -883,7 +798,7 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
@@ -897,12 +812,17 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>D</root-step>
+					<root-step>E</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind parentheses-degrees="yes">minor-seventh</kind>
+				<degree>
+					<degree-value>5</degree-value>
+					<degree-alter>-1</degree-alter>
+					<degree-type>alter</degree-type>
+				</degree>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -923,38 +843,28 @@
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>35</offset>
+				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
 					<step>G</step>
-					<octave>4</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>40</duration>
+				<duration>80</duration>
 				<tie type="start"/>
 				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
+				<type>whole</type>
+				<stem>none</stem>
 				<notations>
-					<tied type="start" number="1" orientation="under"/>
+					<tied type="start" number="1" orientation="over"/>
 				</notations>
 			</note>
 		</measure><!--
@@ -964,13 +874,12 @@
 		<measure number="9" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>A</root-step>
-					<root-alter>1</root-alter>
 				</root>
-				<kind>diminished</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -979,7 +888,7 @@
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>1</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -987,51 +896,51 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>3</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 				</frame>
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>G</root-step>
+					<root-step>A</root-step>
 				</root>
 				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 				</frame>
 				<offset>0</offset>
@@ -1040,7 +949,7 @@
 			<note>
 				<pitch>
 					<step>G</step>
-					<octave>4</octave>
+					<octave>5</octave>
 				</pitch>
 				<duration>80</duration>
 				<tie type="stop"/>
@@ -1048,7 +957,7 @@
 				<type>whole</type>
 				<stem>none</stem>
 				<notations>
-					<tied type="stop" number="1" orientation="under"/>
+					<tied type="stop" number="1" orientation="over"/>
 				</notations>
 			</note>
 		</measure><!--
@@ -1066,21 +975,21 @@
 				</system-layout>
 			</print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>G</root-step>
+					<root-step>D</root-step>
 				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -1088,11 +997,11 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
@@ -1102,21 +1011,21 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>G</root-step>
+					<root-step>D</root-step>
 				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -1124,43 +1033,49 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
 						<fret>1</fret>
 					</frame-note>
 				</frame>
-				<offset>35</offset>
+				<offset>31</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>G</step>
-					<octave>4</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
 				<duration>40</duration>
 				<voice>1</voice>
 				<type>half</type>
-				<stem>up</stem>
+				<stem>down</stem>
 			</note>
 			<note>
 				<pitch>
 					<step>G</step>
-					<octave>4</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>40</duration>
-				<tie type="start"/>
+				<duration>20</duration>
 				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
 			</note>
 		</measure><!--
 ===========================================================
@@ -1169,12 +1084,12 @@
 		<measure number="11" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>C</root-step>
+					<root-step>A</root-step>
 				</root>
 				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1183,7 +1098,7 @@
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -1191,15 +1106,15 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>3</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 				</frame>
 				<offset>0</offset>
@@ -1208,23 +1123,20 @@
 			<note>
 				<pitch>
 					<step>G</step>
-					<octave>4</octave>
+					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
-				<tie type="stop"/>
+				<duration>30</duration>
 				<voice>1</voice>
 				<type>quarter</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
+				<dot/>
+				<stem>down</stem>
 			</note>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
-					<root-step>C</root-step>
+					<root-step>A</root-step>
 				</root>
 				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1233,7 +1145,7 @@
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
@@ -1241,33 +1153,23 @@
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>3</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 				</frame>
-				<offset>15</offset>
+				<offset>14</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
+					<step>A</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>10</duration>
@@ -1277,27 +1179,13 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>40</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>half</type>
 				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
 			</note>
 		</measure><!--
 ===========================================================
@@ -1306,12 +1194,239 @@
 		<measure number="12" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="13" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="14" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>F</root-step>
 				</root>
 				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1342,30 +1457,112 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>F</root-step>
-					<root-alter>1</root-alter>
 				</root>
-				<kind>diminished</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
 						<string>6</string>
-						<fret>2</fret>
+						<fret>1</fret>
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>0</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>1</fret>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
 						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="15" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
@@ -1381,33 +1578,2228 @@
 			</harmony>
 			<note>
 				<pitch>
+					<step>E</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>9</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
 					<step>D</step>
-					<octave>4</octave>
+					<octave>6</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<accidental parentheses="no">natural</accidental>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="16" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>5</octave>
 				</pitch>
 				<duration>80</duration>
-				<tie type="stop"/>
 				<tie type="start"/>
 				<voice>1</voice>
 				<type>whole</type>
 				<stem>none</stem>
 				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-					<tied type="start" number="1" orientation="under"/>
+					<tied type="start" number="1" orientation="over"/>
 				</notations>
 			</note>
 		</measure><!--
 ===========================================================
 -->
 
-		<measure number="13" width="296">
+		<measure number="17" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="84.9798">
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>33</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<tied type="stop" number="1" orientation="over"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="18" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="19" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="20" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="21" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="22" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>F</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>A</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>21</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="23" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="130.0909">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="118.8572" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>6</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>5</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="24" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>80</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<notations>
+					<tied type="start" number="1" orientation="over"/>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<direction placement="below">
+				<direction-type>
+					<pedal type="start"></pedal>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="25" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>E</root-step>
+				</root>
+				<kind parentheses-degrees="yes">minor-seventh</kind>
+				<degree>
+					<degree-value>5</degree-value>
+					<degree-alter>-1</degree-alter>
+					<degree-type>alter</degree-type>
+				</degree>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>A</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>35</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>40</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<tied type="stop" number="1" orientation="over"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<barline location="right">
+				<bar-style>light-light</bar-style>
+			</barline>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="26" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="27" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="28" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="29" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>G</root-step>
+				</root>
+				<kind>major</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>14</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="30" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="31" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>E</root-step>
+				</root>
+				<kind parentheses-degrees="yes">minor-seventh</kind>
+				<degree>
+					<degree-value>5</degree-value>
+					<degree-alter>-1</degree-alter>
+					<degree-type>alter</degree-type>
+				</degree>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>30</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem>down</stem>
+			</note>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>A</root-step>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>11</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>10</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="32" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>D</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>80</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<notations>
+					<tied type="start" number="1" orientation="over"/>
+				</notations>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="33" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="130.0909">
+				<root>
+					<root-step>C</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="118.8572" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>6</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>5</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>4</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>3</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>dominant</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>6</octave>
+				</pitch>
+				<duration>80</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>whole</type>
+				<stem>none</stem>
+				<notations>
+					<tied type="stop" number="1" orientation="over"/>
+				</notations>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="34" width="296">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>0</left-margin>
+						<right-margin>0</right-margin>
+					</system-margins>
+					<system-distance>84</system-distance>
+				</system-layout>
+			</print>
+			<attributes></attributes>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>B</root-step>
+					<root-alter>-1</root-alter>
+				</root>
+				<kind>major-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>3</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>1</fret>
+					</frame-note>
+				</frame>
+				<offset>0</offset>
+				<staff>1</staff>
+			</harmony>
+			<harmony default-y="117.6017">
+				<root>
+					<root-step>A</root-step>
+				</root>
+				<kind>minor-seventh</kind>
+				<frame default-y="106.3679" valign="top">
+					<frame-strings>6</frame-strings>
+					<frame-frets>5</frame-frets>
+					<frame-note>
+						<string>6</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>5</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>4</string>
+						<fret>2</fret>
+					</frame-note>
+					<frame-note>
+						<string>3</string>
+						<fret>0</fret>
+					</frame-note>
+					<frame-note>
+						<string>2</string>
+						<fret>1</fret>
+					</frame-note>
+					<frame-note>
+						<string>1</string>
+						<fret>0</fret>
+					</frame-note>
+				</frame>
+				<offset>31</offset>
+				<staff>1</staff>
+			</harmony>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>40</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem>down</stem>
+				<notations>
+					<articulations>
+						<strong-accent placement="above"/>
+					</articulations>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>20</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem>down</stem>
+			</note>
+		</measure><!--
+===========================================================
+-->
+
+		<measure number="35" width="296">
+			<print new-system="no"></print>
+			<attributes></attributes>
+			<harmony default-y="130.0909">
 				<root>
 					<root-step>G</root-step>
 				</root>
 				<kind>minor-seventh</kind>
-				<frame default-y="73.7461" valign="top">
+				<frame default-y="118.8572" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>6</frame-frets>
 					<frame-note>
@@ -1440,34 +3832,21 @@
 			</harmony>
 			<note>
 				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>30</duration>
 				<voice>1</voice>
 				<type>quarter</type>
+				<dot/>
 				<stem>down</stem>
 			</note>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>C</root-step>
 				</root>
 				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1495,12 +3874,12 @@
 						<fret>0</fret>
 					</frame-note>
 				</frame>
-				<offset>10</offset>
+				<offset>14</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>A</step>
 					<octave>5</octave>
 				</pitch>
 				<duration>10</duration>
@@ -1510,49 +3889,27 @@
 			</note>
 			<note>
 				<pitch>
-					<step>C</step>
+					<step>G</step>
 					<octave>5</octave>
 				</pitch>
-				<duration>20</duration>
+				<duration>40</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>half</type>
 				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
 			</note>
 		</measure><!--
 ===========================================================
 -->
 
-		<measure number="14" width="296">
-			<print new-system="yes">
-				<system-layout>
-					<system-margins>
-						<left-margin>0</left-margin>
-						<right-margin>0</right-margin>
-					</system-margins>
-					<system-distance>84</system-distance>
-				</system-layout>
-			</print>
+		<measure number="36" width="296">
+			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>F</root-step>
 				</root>
 				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1583,12 +3940,12 @@
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>F</root-step>
 				</root>
 				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1621,172 +3978,37 @@
 			</harmony>
 			<note>
 				<pitch>
-					<step>D</step>
-					<octave>4</octave>
+					<step>F</step>
+					<octave>5</octave>
 				</pitch>
 				<duration>80</duration>
-				<tie type="stop"/>
-				<tie type="start"/>
 				<voice>1</voice>
 				<type>whole</type>
 				<stem>none</stem>
 				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-					<tied type="start" number="1" orientation="under"/>
+					<articulations>
+						<accent placement="above"/>
+					</articulations>
 				</notations>
 			</note>
 		</measure><!--
 ===========================================================
 -->
 
-		<measure number="15" width="296">
+		<measure number="37" width="296">
 			<print new-system="no"></print>
 			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-					<root-alter>1</root-alter>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-					<root-alter>1</root-alter>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>15</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="16" width="296">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>E</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
+				<kind parentheses-degrees="yes">minor-seventh</kind>
+				<degree>
+					<degree-value>5</degree-value>
+					<degree-alter>-1</degree-alter>
+					<degree-type>alter</degree-type>
+				</degree>
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1795,93 +4017,34 @@
 					</frame-note>
 					<frame-note>
 						<string>5</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>2</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>3</fret>
+						<fret>0</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>0</fret>
+						<fret>1</fret>
 					</frame-note>
 				</frame>
 				<offset>0</offset>
 				<staff>1</staff>
 			</harmony>
-			<harmony default-y="72.4906">
+			<harmony default-y="117.6017">
 				<root>
 					<root-step>A</root-step>
 				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>80</duration>
-				<tie type="stop"/>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>whole</type>
-				<stem>none</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="17" width="296">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
 				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
+				<frame default-y="106.3679" valign="top">
 					<frame-strings>6</frame-strings>
 					<frame-frets>5</frame-frets>
 					<frame-note>
@@ -1894,7 +4057,7 @@
 					</frame-note>
 					<frame-note>
 						<string>4</string>
-						<fret>0</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>3</string>
@@ -1902,1263 +4065,21 @@
 					</frame-note>
 					<frame-note>
 						<string>2</string>
-						<fret>1</fret>
+						<fret>2</fret>
 					</frame-note>
 					<frame-note>
 						<string>1</string>
-						<fret>2</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>2</fret>
-					</frame-note>
-				</frame>
-				<offset>15</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="18" width="237">
-			<print new-system="yes">
-				<system-layout>
-					<system-margins>
-						<left-margin>0</left-margin>
-						<right-margin>0</right-margin>
-					</system-margins>
-					<system-distance>84</system-distance>
-				</system-layout>
-			</print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>80</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>whole</type>
-				<stem>none</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="19" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
 						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>80</duration>
-				<voice>1</voice>
-				<type>whole</type>
-				<stem>none</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="20" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
 					</frame-note>
 				</frame>
 				<offset>33</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>down</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="21" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>10</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>F</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>E</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="22" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>33</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>up</stem>
-				<notations>
-					<articulations>
-						<strong-accent placement="above"/>
-					</articulations>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="23" width="237">
-			<print new-system="yes">
-				<system-layout>
-					<system-margins>
-						<left-margin>0</left-margin>
-						<right-margin>0</right-margin>
-					</system-margins>
-					<system-distance>84</system-distance>
-				</system-layout>
-			</print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>E</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>10</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>G</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="under"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>up</stem>
-				<beam number="1">end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>B</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="24" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>A</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>33</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>40</duration>
-				<voice>1</voice>
-				<type>half</type>
-				<stem>down</stem>
-				<notations>
-					<articulations>
-						<strong-accent placement="above"/>
-						<staccato placement="below"/>
-					</articulations>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="25" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-			</note>
-			<note>
-				<pitch>
-					<step>A</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-				<beam number="1">begin</beam>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>10</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-				<beam number="1">end</beam>
-				<notations>
-					<tied type="start" number="1" orientation="over"/>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>D</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>10</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-				<beam number="1">begin</beam>
-				<notations>
-					<tied type="stop" number="1" orientation="over"/>
-					<articulations>
-						<tenuto placement="below"/>
-					</articulations>
-				</notations>
-			</note>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>10</duration>
-				<voice>1</voice>
-				<type>eighth</type>
-				<stem>down</stem>
-				<beam number="1">end</beam>
-			</note>
-			<note>
-				<pitch>
-					<step>B</step>
-					<octave>4</octave>
-				</pitch>
-				<duration>20</duration>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>up</stem>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="26" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>C</root-step>
-				</root>
-				<kind>major</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>0</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>80</duration>
-				<tie type="start"/>
-				<voice>1</voice>
-				<type>whole</type>
-				<stem>none</stem>
-				<notations>
-					<tied type="start" number="1" orientation="over"/>
-				</notations>
-			</note>
-		</measure><!--
-===========================================================
--->
-
-		<measure number="27" width="237">
-			<print new-system="no"></print>
-			<attributes></attributes>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>D</root-step>
-				</root>
-				<kind>minor-seventh</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>1</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>0</offset>
-				<staff>1</staff>
-			</harmony>
-			<note>
-				<pitch>
-					<step>C</step>
-					<octave>5</octave>
-				</pitch>
-				<duration>20</duration>
-				<tie type="stop"/>
-				<voice>1</voice>
-				<type>quarter</type>
-				<stem>down</stem>
-				<notations>
-					<tied type="stop" number="1" orientation="over"/>
-				</notations>
-			</note>
-			<harmony default-y="72.4906">
-				<root>
-					<root-step>G</root-step>
-				</root>
-				<kind>dominant</kind>
-				<frame default-y="61.2568" valign="top">
-					<frame-strings>6</frame-strings>
-					<frame-frets>5</frame-frets>
-					<frame-note>
-						<string>6</string>
-						<fret>3</fret>
-					</frame-note>
-					<frame-note>
-						<string>5</string>
-						<fret>2</fret>
-					</frame-note>
-					<frame-note>
-						<string>4</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>3</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>2</string>
-						<fret>0</fret>
-					</frame-note>
-					<frame-note>
-						<string>1</string>
-						<fret>1</fret>
-					</frame-note>
-				</frame>
-				<offset>17</offset>
 				<staff>1</staff>
 			</harmony>
 			<note>
 				<rest/>
-				<duration>20</duration>
+				<duration>40</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>half</type>
 			</note>
 			<note>
 				<rest/>
@@ -3166,6 +4087,9 @@
 				<voice>1</voice>
 				<type>half</type>
 			</note>
+			<barline location="right">
+				<bar-style>light-heavy</bar-style>
+			</barline>
 		</measure>
 	</part>
 </score-partwise>

@@ -1,5 +1,5 @@
 # chord-melody-dataset
-This dataset to dedicated to the relation ship between chords &amp; melodies
+This dataset to dedicated to the relationship between chords &amp; melodies
 
 # 
 The dataset conforms to a strict format.  All songs are saved in [MUSIC_XML](http://www.musicxml.com/for-developers/)

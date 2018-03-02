@@ -1,4 +1,4 @@
-# chord-melody-dataset
+# Chord Melody Dataset
 This dataset to dedicated to the relationship between chords &amp; melodies
 
 # 

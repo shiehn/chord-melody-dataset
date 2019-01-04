@@ -18,6 +18,6 @@ The dataset was created scaning leadsheets via the OCR feature in the [SMARTSCOR
 Ideally each song/leadsheet will be transposed to 12keys. I have created a golang app that will validate that the xml format is correct [MusicXmlParser](https://github.com/shiehn/MusicXmlGoParser)
 
 ### How to use this dataset
-In order to use this data set to make musical predictions you must first encode the data into a format consumable by machine learning algorithms.  You are welcome to use the one I've created or of course roll your own.  The encoder I've created is a simple GoLang commandline tool that consumes the MusicXML format and outputs enoded data strings. [ENCODING TOOL](https://github.com/shiehn/MusicXmlGoParser) 
+In order to use this data set to make musical predictions you must first encode the data into a format consumable by machine learning algorithms.  You are welcome to use the tool I've created or of course roll your own.  The encoder I've created is a simple GoLang commandline tool that consumes the MusicXML format and outputs enoded data strings. [ENCODING TOOL](https://github.com/shiehn/MusicXmlGoParser) 
 
 For ideas on how to format and feed this data into machine learning algorithms & frameworks please visit my blog [Signals & Sorcery Blog](https://medium.com/@stevehiehn) or my procedural music generation project [TrebleMaker.Ai](http://treblemaker.ai/)
